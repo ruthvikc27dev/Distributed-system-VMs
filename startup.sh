@@ -7,6 +7,6 @@
 
 vm="C:/Program Files/Oracle/VirtualBox/VBoxManage.exe"
 
-"$vm" startvm UBUNTU_SERVER_{1..5} --type headless
+"$vm" startvm UBUNTU_SERVER_{1..4} --type headless
 
 exit 0
